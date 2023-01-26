@@ -8,7 +8,6 @@ I've been studying the web for over a year now and I really like it.
 
 * 🌍  I'm based in Minsk, Belarus
 * ✉️  You can contact me at [nikola.balabanov93@gmail.com](mailto:nikola.balabanov93@gmail.com)
-* 🚀  I'm currently working on [my-react-reddit-app](http://https://my-react-reddit-app.herokuapp.com/)
 * 🧠  I'm learning React + Redux
 * ⚡  I love outdoor activities, fitness and spending time with my friends
 
