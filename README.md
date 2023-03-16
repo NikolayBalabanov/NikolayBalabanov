@@ -7,7 +7,7 @@ Front-end developer (junior)
 I've been studying the web for over a year now and I really like it.
 
 * 🌍  I'm based in Minsk, Belarus
-* ✉️  You can contact me at [nikola.balabanov93@gmail.com](mailto:nikola.balabanov93@gmail.com)
+* ✉️  You can contact me at [nikola.balabanov93@gmail.com](mailto:nikola.balabanov93@gmail.com) and [NikolaBalabanov](https://t.me/NikolaBalabanov)
 * 🧠  I'm learning React + Redux
 * ⚡  I love outdoor activities, fitness and spending time with my friends
 
